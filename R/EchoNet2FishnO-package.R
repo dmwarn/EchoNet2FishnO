@@ -1,16 +1,16 @@
 #' Estimate Fish Abundance from Acoustic Echoes and Net Catch
 #'
-#' \pkg{EchoNet2Fish} estimates fish abundance from acoustic echoes and 
+#' \pkg{EchoNet2Fish} estimates fish abundance from acoustic echoes and
 #' midwater trawl catch.
 #'
 #' An example of how to use the functions in \pkg{EchoNet2Fish} is given in this
 #' vignette
 #' \href{https://rawgit.com/JVAdams/EchoNet2Fish/master/vignettes/Intro.html}{[link]}.
 #' Use \code{\link{readAll}} to read in the acoustic and midwater trawl data.
-#' Use \code{\link{exploreACMT}} and \code{\link{estimateACMT}} to 
+#' Use \code{\link{exploreACMT}} and \code{\link{estimateACMT}} to
 #'   explore the data and estimate abundance.
 #'
-#' \emph{U.S. Geological Survey} (USGS) Computer Program \pkg{EchoNet2Fish} 
+#' \emph{U.S. Geological Survey} (USGS) Computer Program \pkg{EchoNet2Fish}
 #'   version 0.3.3.9000
 #' Written by Jean V. Adams, USGS - Great Lakes Science Center
 #' \href{http://www.glsc.usgs.gov/}{glsc.usgs.gov}, Ann Arbor, Michigan, USA.

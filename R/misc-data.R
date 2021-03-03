@@ -10,9 +10,9 @@ NULL
 #' @name
 #'   EchoEnv
 #' @title
-#'   EchoNet2Fish Package Local Environment
+#'   EchoNet2FishnO Package Local Environment
 #' @description
-#'   An environment local to the EchoNet2Fish package, used to hold objects
+#'   An environment local to the EchoNet2FishnO package, used to hold objects
 #'   outside of the individual package functions
 #' @format
 #'   An environment.

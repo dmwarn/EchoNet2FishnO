@@ -2,7 +2,7 @@
 % Please edit documentation in R/misc-data.R
 \name{EchoEnv}
 \alias{EchoEnv}
-\title{EchoNet2Fish Package Local Environment}
+\title{EchoNet2FishnO Package Local Environment}
 \format{
 An environment.
 }
@@ -11,6 +11,6 @@ Post from Hadley Wickham to r-help on 2 Dec 2014
  \href{https://stat.ethz.ch/pipermail/r-help/2014-December/423847.html}{[link]}.
 }
 \description{
-An environment local to the EchoNet2Fish package, used to hold objects
+An environment local to the EchoNet2FishnO package, used to hold objects
   outside of the individual package functions
 }

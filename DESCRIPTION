@@ -4,7 +4,7 @@ Date: 2019-05-10
 Title: Estimate Fish Abundance from Acoustic Echoes and Net Catch
 Authors@R: person(given="Jean V.", family="Adams", email="jvadams@usgs.gov", 
   role=c("aut", "cre"))
-Description: EchoNet2Fish estimates fish abundance from acoustic echoes and net
+Description: EchoNet2FishnO estimates fish abundance from acoustic echoes and net
     catch.
 Encoding: UTF-8
 Depends: 
